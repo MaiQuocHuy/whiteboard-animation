@@ -7,15 +7,16 @@ Toàn bộ việc dựng video chạy ngay trên máy bạn — không upload �
 không hàng đợi, không giới hạn độ dài, và không có watermark.
 
 <p align="center">
-  <video src="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo.mp4"
-         poster="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo-poster.jpg"
-         controls muted loop playsinline width="760"></video>
+  <a href="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo.mp4">
+    <img src="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo.webp"
+         alt="SketchMotion vẽ ba nhân vật, tô màu từng người một" width="720">
+  </a>
 </p>
 
 <p align="center">
-  <sub>Video trên do chính app dựng ra từ một tấm ảnh &mdash; 1280&times;720, 10 giây.
-  Không xem được ở đây thì
-  <a href="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo.mp4">bấm vào đây để tải</a>.</sub>
+  <sub>Đúng thành phẩm app xuất ra, không cắt ghép gì.
+  <a href="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo.mp4">Tải bản mp4 gốc 720p</a>
+  &middot; đây là chế độ tô màu theo từng nhân vật.</sub>
 </p>
 
 ---
