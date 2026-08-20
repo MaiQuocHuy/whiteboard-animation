@@ -7,7 +7,15 @@ Toàn bộ việc dựng video chạy ngay trên máy bạn — không upload �
 không hàng đợi, không giới hạn độ dài, và không có watermark.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=_UuAIjSzUJQ"><b>▶ Xem video demo</b></a>
+  <video src="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo.mp4"
+         poster="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo-poster.jpg"
+         controls muted loop playsinline width="760"></video>
+</p>
+
+<p align="center">
+  <sub>Video trên do chính app dựng ra từ một tấm ảnh &mdash; 1280&times;720, 10 giây.
+  Không xem được ở đây thì
+  <a href="https://github.com/MaiQuocHuy/whiteboard-animation/raw/main/docs/demo.mp4">bấm vào đây để tải</a>.</sub>
 </p>
 
 ---
